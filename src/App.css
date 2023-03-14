@@ -1,0 +1,19 @@
+.App {
+  height: 100vh;
+  padding-top: 10px;
+  background-color: #1b1b32;
+  font-family: Lato, sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  height: 50px;
+  margin: 8px;
+  color: white;
+  top: 50px;
+  position: absolute;
+  top: 50px;
+}
